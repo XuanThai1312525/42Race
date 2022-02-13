@@ -1,0 +1,26 @@
+PODS:
+  - FloatRatingView (4.0)
+  - RxSwift (6.5.0)
+  - SDWebImage (5.12.1):
+    - SDWebImage/Core (= 5.12.1)
+  - SDWebImage/Core (5.12.1)
+
+DEPENDENCIES:
+  - FloatRatingView
+  - RxSwift (= 6.5.0)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - FloatRatingView
+    - RxSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  FloatRatingView: bb6bdddfbeec51b1d387b4bd50abc27b4dfccd48
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SDWebImage: 4dc3e42d9ec0c1028b960a33ac6b637bb432207b
+
+PODFILE CHECKSUM: 6c1c06d2d907a15a47e09888c92332e481823ccc
+
+COCOAPODS: 1.11.2

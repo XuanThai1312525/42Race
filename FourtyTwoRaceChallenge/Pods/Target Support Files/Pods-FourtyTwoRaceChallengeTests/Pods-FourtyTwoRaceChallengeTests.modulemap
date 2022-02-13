@@ -1,0 +1,6 @@
+framework module Pods_FourtyTwoRaceChallengeTests {
+  umbrella header "Pods-FourtyTwoRaceChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

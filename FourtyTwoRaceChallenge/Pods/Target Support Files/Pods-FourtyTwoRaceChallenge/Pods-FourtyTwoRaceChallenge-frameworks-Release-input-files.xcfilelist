@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FourtyTwoRaceChallenge/Pods-FourtyTwoRaceChallenge-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FloatRatingView/FloatRatingView.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
